@@ -1,0 +1,260 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+.header{
+    display:flex;
+    border-bottom: solid 3px whitesmoke;
+}
+.header img{
+    margin-left: 20px;
+    width:130px;
+}
+.header a{
+    text-decoration: none;
+}
+.container{
+    margin-top:20px;
+}
+.log{
+    color: hsl(241, 96%, 54%);
+    margin-left: 1100px;
+    padding-right: 10px;
+}
+.log:hover{
+    color: hsl(241, 96%, 54%);
+    border-bottom: solid 1px hsl(241, 96%, 54%);
+}
+.sign{
+    color: white;
+    background-color: hsl(241, 96%, 54%);
+    padding: 10px;
+    border-radius: 5px;
+}
+.sign:hover{
+    background-color:  hsl(241, 99%, 31%);
+}
+.container1{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: hsl(275, 33%, 93%);
+    padding: 100px 0px 100px 0px;
+   
+}
+.container1 a{
+    text-decoration: none;
+    color: white;
+    font: size 20px; ;
+    background-color:hsl(241, 96%, 54%);
+    padding: 10px 60px 10px 60px;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+.container1 a:hover{
+    background-color:hsl(241, 99%, 31%) ;
+}
+input{
+    font-size: 20px;
+    margin-top: 40px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.container1 input:hover{
+    border:solid 3px skyblue;
+}
+.container1 img{
+    width: 400px;
+}
+.con1_1{
+    width:750px;
+    font-size: 25px;
+    margin-top: 100px;
+}
+.container2{
+    margin-top:100px;
+    font-size: 20px;
+    text-align: center;
+    width:900px;
+    margin-left: 275px;
+}
+.container2 img{
+    width: 900px;
+    margin-top:20px ;
+}
+.container2 a{
+    text-decoration: none;
+    color: hsl(241, 96%, 54%);
+    padding: 10px 30px 10px 30px ;
+    border:solid 1px hsl(241, 96%, 54%);
+    border-radius: 5px;
+}
+.container2 a:hover{
+    color: white;
+    background-color:hsl(241, 96%, 54%) ;
+}
+.abc{
+    margin-top: 40px;
+}
+.container3{
+    margin-top: 100px;
+    margin-left: 200px;
+     width: 500px;
+     font-size: 20px;
+}
+.container4{
+    margin-top: 100px;
+    font-size: 20px;
+}
+.container4 img{
+    width:400px;
+}
+.container4 a{
+    text-decoration: none;
+    color: black;
+}
+.container4 a:hover{
+text-decoration: underline;
+}
+.p1{
+    width: 500px;
+    color: gray;
+}
+.con4_1{
+    justify-content: space-evenly;
+    display:flex;
+    margin-top: 100px;
+}
+.container5{
+    display:flex;
+    margin-top: 100px;
+    padding: 50px;
+    justify-content:space-evenly ;
+    font-size: 15px;
+    border-top: solid 1px black;
+    border-bottom: solid 1px black;
+    
+}
+.container5 a{
+    text-decoration: none;
+    color: hsl(241, 96%, 54%);
+    padding: 10px 30px 10px 30px ;
+    border:solid 1px hsl(241, 96%, 54%);
+    border-radius: 5px;
+}
+.container5 a:hover{
+    color: white;
+    background-color:hsl(241, 96%, 54%) ;
+}
+.con5{
+    display: flex;
+    width:400px;
+}
+.space{
+    margin-left: 40px;
+}
+.p2{
+    margin-top: 30px;
+}
+.main{
+    background-color: #eef9fc;
+}
+.container6{
+    margin-top: 100px;
+    display:flex;
+    font-size: 30px;
+    padding: 60px;
+}
+.con6_1{
+    margin-left: 700px;
+    font-size: 20px;
+
+}
+.x1{
+    margin-left: 50px;
+}
+.y1{
+font-size: 20px;
+}
+.container6_1{
+    background-color: #eef9fc ;
+    margin-top: 0px;
+    padding: 30px;
+
+}
+.q{
+    border-bottom: solid 5px #030447;
+}
+.container6_1 a{
+    padding: 20px;
+    text-decoration: none;
+    
+}
+.q1{
+    background-color: #030447;
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.q1:hover{
+    background-color: dodgerblue;
+}
+.q2{
+    font-size: 90px;
+}
+.q2:hover{
+    background-color: whitesmoke;
+}
+.container7{
+    color: white;
+    text-align: center;
+    padding: 100px;
+    background-color: #4b4bd3;
+    margin:50px 120px 50px 120px;
+    border-radius: 20px;
+}
+.container7 a{
+    text-decoration: none;
+    color: white;
+    background-color:hsl(184, 54%, 50%);
+    padding: 15px 60px 15px 60px;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+.container7 a:hover{
+    background-color: hsl(192, 69%, 48%);
+}
+.con8{
+    display: flex;
+    background-color: whitesmoke;
+    padding: 20px 50px 20px 300px;
+    font-size: 20px;
+}
+.con8 p{
+    padding-right: 50px;
+    padding-top: 10px;
+}
+.con8 img{
+    padding: 10px;
+}
+.footer{
+    margin-top: 100px;
+    text-align:center;
+}
+.footer a{
+    color: gray;
+    padding: 20px;
+}
+.footer a:hover{
+    color:black;
+}
+.footer img{
+    width:150px;
+}
+.c{
+    margin:30px 0px 30px 0px;
+}
+.b{
+   font-size: 20px;
+   color: gray;
+   padding:10px 20px 10px 20px;
+   border-color: gray;
+}
